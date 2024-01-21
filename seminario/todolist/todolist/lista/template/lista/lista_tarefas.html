@@ -1,0 +1,18 @@
+<!-- templates/meuapp/lista_tarefas.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Tarefas</title>
+</head>
+<body>
+    <h1>Lista de Tarefas</h1>
+
+    <ul>
+        {% for tarefa in tarefas %}
+            <li>{{ tarefa.descricao }} {% if tarefa.concluida %}(Concluída){% endif %}</li>
+        {% endfor %}
+    </ul>
+
+    <a href="{% url 'adicionar_tarefa' %}">Adicionar Tarefa</a>
+</body>
+</html>
