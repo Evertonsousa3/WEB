@@ -90,8 +90,8 @@ Abra seu navegador e visite http://127.0.0.1:8000/ para interagir com o aplicati
 - após fazer a edição não esqueça de dar o comando
   
   ```python
-python manage.py migrate
-```
+   python manage.py migrate
+
 Para atualizar o projeto com o novo banco de dados
 
 
