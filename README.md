@@ -191,10 +191,16 @@ O usuário pode fazer o uso da aplicação clicando no link (https://web-wine-io
 Na imagem acima, existe um campo de escrita logo no topo onde o usuário irá digitar o nome da sua tarefa e em seguida clicar no botão "ADICIONAR". Feito isso, a sua primeira tarefa estará gravada e a mesma aparecerá no topo da lista.
 
 A nossa lista de tarefas aparece logo abaixo do campo de adição de novas tarefas, nele é possível ver as tarefas já registradas, concluidas e em aberto. (veja a imagem a seguir).
-![Alt text](image-1.png)
-Na imagem existem tarefas em aberto e tarefas concluídas. Como descrito no item anterior, cada nova tarefa adcionada aparecerá no topo da lista.
-Assim que terminada a sua tarefa o usuário clica no botão amarelo, isso fara com que a sua tarefa seja riscada da lista e considerada como concluída.
 
+![Alt text](image-1.png)
+
+Com finalidade ilustrativa, existem na imagem tarefas em aberto e tarefas concluídas. 
+Como descrito no item anterior, cada nova tarefa adcionada aparecerá no topo da lista.
+Assim que terminada a sua tarefa o usuário clica no botão amarelo, isso fara com que a sua tarefa seja riscada da lista e considerada como concluída.
+![Alt text](image-2.png)
+O icone vermelho com um x, indica que o usuário pode excluir aquela tarefa. Portanto, feito isso, ela será deletada permanentemente da sua lista.
+![Alt text](image-3.png)
+Para isso, não necessariamente a tarefa precisa estar concluída.
 
 
 # Executar o servidor de desenvolvimento
