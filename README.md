@@ -36,7 +36,9 @@ django-admin --version
 ```
 ## Configurando o Ambiente e Executando o Aplicativo
 1. Clone o Repositório:
-```git clone <https://github.com/stephenbarreto/WEB.git>
+   
+```
+git clone <https://github.com/stephenbarreto/WEB.git>
 ```
 2. Abra o Projeto no VSCode:
  ``` python
@@ -57,6 +59,8 @@ pip install -r requirements.txt
 6. Aplique as Migrações:
  ``` python
 python manage.py makemigrations
+```
+ ``` python
 python manage.py migrate
 ```
 7. Execute o Servidor de Desenvolvimento:
@@ -83,8 +87,8 @@ Se você tiver dúvidas ou precisar de ajuda, entre em contato conosco em stephe
 
 Referências
 - Livro
-  **Django de A a Z**
-Crie aplicações web rápidas, seguras e escaláveis com Python
+  **Django de A a Z**.
+Crie aplicações web rápidas, seguras e escaláveis com Python.
 https://www.casadocodigo.com.br/products/livro-django-a-z
   
 
