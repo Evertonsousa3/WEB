@@ -1,4 +1,7 @@
 # Aplicativo de Lista de Tarefas com Django e htmx 
+
+![To-Do List Screenshot](screenshot.png)
+
 Este é um aplicativo simples de Lista de Tarefas construído usando o framework web Django e a biblioteca htmx para uma interação dinâmica entre cliente e servidor. O aplicativo permite aos usuários gerenciar suas tarefas de forma dinâmica, sem a necessidade de código JavaScript complexo.
 
 ## Preparando o Ambiente e Rodando o Aplicativo
@@ -75,6 +78,10 @@ python manage.py runserver
 Abra seu navegador e visite http://127.0.0.1:8000/ para interagir com o aplicativo Lista de Tarefas.
 ```
 
+## obs
+
+![To-Do List Screenshot](screenshotDataBase.png)
+
 
 ## Contribuição
 Contribuições são bem-vindas! Siga as diretrizes de contribuição do projeto.
@@ -88,8 +95,14 @@ Se você tiver dúvidas ou precisar de ajuda, entre em contato conosco em stephe
 Referências
 - Livro
   **Django de A a Z**.
+  
 Crie aplicações web rápidas, seguras e escaláveis com Python.
+
 https://www.casadocodigo.com.br/products/livro-django-a-z
+https://markdown.net.br/sintaxe-basica/
+https://medium.com/@devsumitg/simple-todo-list-app-in-django-framework-htmx-bootstrap-5-8b68cbd47a1a
+https://youtu.be/I5x8lAVQ8QQ?si=z2IKMTVuMOeAjH3d
+
   
 
 
