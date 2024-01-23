@@ -80,7 +80,7 @@ Abra seu navegador e visite http://127.0.0.1:8000/ para interagir com o aplicati
 
 ## obs
 
-![To-Do List Screenshot](screenshotDataBase.png)
+![To-Do List Screenshot](screenshot-DataBase)
 
 
 ## Contribuição
