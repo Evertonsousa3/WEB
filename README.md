@@ -18,7 +18,10 @@ Para começar a construir nosso simples aplicativo htmx, vamos configurar um nov
 
 
 ### Instale o Framework Django usando o pip:
-`` pip install django
+`pip install django`
+``` python
+from tal im0ot tal
+```
 
 # Crie um novo projeto Django:
 django-admin startproject myproject
