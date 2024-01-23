@@ -4,6 +4,11 @@
 
 Este é um aplicativo simples de Lista de Tarefas construído usando o framework web Django e a biblioteca htmx para uma interação dinâmica entre cliente e servidor. O aplicativo permite aos usuários gerenciar suas tarefas de forma dinâmica, sem a necessidade de código JavaScript complexo.
 
+## Teste o código usando esse link.
+https://web-wine-iota.vercel.app/
+* Hospedagem de aplicação na **Vercel** e banco de dados **ElephantSQL**.
+* Para instação na sua maquina via LocalHost siga o Tutorial abaixo.
+
 ## Preparando o Ambiente e Rodando o Aplicativo
 Siga as instruções abaixo para configurar o ambiente e executar o aplicativo Lista de Tarefas em sua máquina local.
 
@@ -78,9 +83,17 @@ python manage.py runserver
 Abra seu navegador e visite http://127.0.0.1:8000/ para interagir com o aplicativo Lista de Tarefas.
 ```
 
-## obs
+## Importante caso for usar ele em localhost altere as configuções do DATABASE em settings.py como no print logo a seguir.
 
-![To-Do List Screenshot](screenshot-DataBase)
+![To-Do List Screenshot](screenshot-DataBase.png)
+
+- após fazer a edição não esqueça de dar o comando
+  
+  ```python
+python manage.py migrate
+```
+Para atualizar o projeto com o novo banco de dados
+
 
 
 ## Contribuição
