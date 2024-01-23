@@ -15,10 +15,10 @@ Familiaridade com o Django e seus conceitos.
 ### 1. Instalar o Framework Django
 Para começar a construir nosso simples aplicativo htmx, vamos configurar um novo projeto Django. Siga estas etapas para configurar a estrutura do Django:
 
-bash
 
-`` # Instale o Framework Django usando o pip:
-pip install django
+
+### Instale o Framework Django usando o pip:
+`` pip install django
 
 # Crie um novo projeto Django:
 django-admin startproject myproject
