@@ -185,7 +185,7 @@ python manage.py makemigrations
 python manage.py migrate
 
 
-# Como usar ? (Modo usuário)
+# Como usar? (Modo usuário)
 O usuário pode fazer o uso da aplicação clicando no link (https://web-wine-iota.vercel.app/). Logo na sequência o mesmo terá está visão da aplicação.
 ![Alt text](image.png)
 Na imagem acima, existe um campo de escrita logo no topo onde o usuário irá digitar o nome da sua tarefa e em seguida clicar no botão "ADICIONAR". Feito isso, a sua primeira tarefa estará gravada e a mesma aparecerá no topo da lista.
@@ -197,10 +197,31 @@ A nossa lista de tarefas aparece logo abaixo do campo de adição de novas taref
 Com finalidade ilustrativa, existem na imagem tarefas em aberto e tarefas concluídas. 
 Como descrito no item anterior, cada nova tarefa adcionada aparecerá no topo da lista.
 Assim que terminada a sua tarefa o usuário clica no botão amarelo, isso fara com que a sua tarefa seja riscada da lista e considerada como concluída.
+
 ![Alt text](image-2.png)
+
 O icone vermelho com um x, indica que o usuário pode excluir aquela tarefa. Portanto, feito isso, ela será deletada permanentemente da sua lista.
+
 ![Alt text](image-3.png)
+
 Para isso, não necessariamente a tarefa precisa estar concluída.
+
+# Como usar? (Modo Administrador)
+ajgfksnklgnmdlmlgmd
+
+a Imagem abaixo mostra como é a tela de um usuário administrador.
+
+![Alt text](image-4.png)
+
+O administrador deverá logar usando seu nome de usuário e senha e em seguida clicar no botão "AVANÇAR". 
+
+Em seguida ele sejá encaminhado para a seguinte tela:
+
+![Alt text](image-5.png)
+
+No canto superior direito são disponibilizadas ao administrador os seguintes campos:
+
+
 
 
 # Executar o servidor de desenvolvimento
