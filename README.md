@@ -184,6 +184,19 @@ Abra a interface de linha de comando e navegue até o diretório raiz do seu pro
 python manage.py makemigrations
 python manage.py migrate
 
+
+# Como usar ? (Modo usuário)
+O usuário pode fazer o uso da aplicação clicando no link (https://web-wine-iota.vercel.app/). Logo na sequência o mesmo terá está visão da aplicação.
+![Alt text](image.png)
+Na imagem acima, existe um campo de escrita logo no topo onde o usuário irá digitar o nome da sua tarefa e em seguida clicar no botão "ADICIONAR". Feito isso, a sua primeira tarefa estará gravada e a mesma aparecerá no topo da lista.
+
+A nossa lista de tarefas aparece logo abaixo do campo de adição de novas tarefas, nele é possível ver as tarefas já registradas, concluidas e em aberto. (veja a imagem a seguir).
+![Alt text](image-1.png)
+Na imagem existem tarefas em aberto e tarefas concluídas. Como descrito no item anterior, cada nova tarefa adcionada aparecerá no topo da lista.
+Assim que terminada a sua tarefa o usuário clica no botão amarelo, isso fara com que a sua tarefa seja riscada da lista e considerada como concluída.
+
+
+
 # Executar o servidor de desenvolvimento
 python manage.py runserver ``
 
