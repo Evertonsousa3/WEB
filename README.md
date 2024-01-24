@@ -208,13 +208,13 @@ Para isso, não necessariamente a tarefa precisa estar concluída.
 
 # Como usar? (Modo Administrador)
 
-a Imagem abaixo mostra como é a tela de um usuário administrador.
+A imagem abaixo mostra como é a tela de um usuário administrador.
 
 ![Tela login admin](image-4.png)
 
-O administrador deverá logar usando seu nome de usuário e senha e em seguida clicar no botão "AVANÇAR". 
+O administrador deverá fazer login usando seu nome de usuário e senha e em seguida clicar no botão "AVANÇAR". 
 
-Em seguida ele verá a tela inicial de administrador:
+Logo após ele verá a tela inicial de administrador:
 
 ![tela principal admin](image-5.png)
 
@@ -228,7 +228,7 @@ No canto superior direito são disponibilizadas ao administrador os seguintes ca
   ![Alterar senha](image-6.png)
 
     - O sistema pedirá a senha antiga do usuário.
-    - o campo de nova senha deverá ser preenchido seguindo as orientações impostas. No campo seguite pede-se que repita a nova senha a ser cadastrada. 
+    - O campo de nova senha deverá ser preenchido seguindo as orientações impostas. No campo seguite pede-se que repita a nova senha a ser cadastrada. 
     - POr fim o administrador clica no botão "ALTERAR MINHA SENHA". Sendo redirecionado para a pagina inicial de administrador.
 
 - Campo para encerrar a sessão;
