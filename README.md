@@ -236,7 +236,7 @@ No canto superior direito são disponibilizadas ao administrador os seguintes ca
 
   ![Encerrar sessão](image-7.png)
 
-Abaixo, no canto direito da tela são exibidos os campos: 
+- Abaixo, no canto direito da tela são exibidos os campos: 
 
 ![Administração](image-8.png)
 
@@ -244,7 +244,7 @@ Aqui o user Admin pode executar as ações;
 
 ![Ações de grupos](image-9.png)
 
-Adicionar grupo permite que ele adcione um nome ao grupo e que dê permissões, essas permissões podem ser filtradas ou pesquisadas e salvar as informações quando inserir ou pesquisar.
+- Adicionar grupo permite que ele adcione um nome ao grupo e que dê permissões, essas permissões podem ser filtradas ou pesquisadas e salvar as informações quando inserir ou pesquisar.
 A imagem a seguir descreve o campo "ADICIONAR".
 
 ![Adicionar grupo](image-10.png)
@@ -253,7 +253,7 @@ Voltando ao grupos, temos a opção "MODIFICAR". Está por sua vez permite que o
 
 ![Modificar grupo](image-11.png)
 
-Agora veremos quanto aos usuários.
+- Agora veremos quanto aos usuários.
 Assim como em grupos, temos a opção de Adicionar e Modificar.
 
 ![Ações de usuários](image-12.png)
@@ -264,7 +264,32 @@ Clicando em "ADICIONAR" temos a seguinte tela:
 
 Aqui é possível criar um nome de usuario e senha para os usuarios e em seguida salvar as informações.
 
-No campo "MODIFICAR"
+No campo "MODIFICAR" temos;
+
+![Modificar usuarios](image-14.png)
+
+Nesta tela é possível ver todos os usuários cadastrados, selecioná-los e eventualmente excluí-los.
+
+- Chegamos agora ao campo MYAPP. 
+
+![MYAPP](image-15.png)
+
+Como os dois campos anteriormente mencionados ele conta com os mesmos botões de ação, entretanto, esses possuem outras funcionalidades. 
+Ao clicar em "ADICIONAR" temos;
+
+![Adicionar MYAPP](image-16.png)
+
+Aqui posso adiconar novas tarefas a lista e salvá-las.
+
+Clicando em "MODIFICAR";
+
+![Modificar MYAPP](image-17.png)
+
+Aqui vemos as tarefas já adicionadas, tendo a possibilidade de selecionar e excluir.
+
+- Por fim, na parte central da tela, temos o histórico de Ações recentes. Tudo que foi feito por meio das opções do administrador serão mostradas aqui.
+
+![Ações recentes](image-18.png)
 
 
 # Executar o servidor de desenvolvimento
