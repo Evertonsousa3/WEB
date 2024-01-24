@@ -1,4 +1,4 @@
-# Aplicativo de Lista de Tarefas com Django e htmx 
+# Aplicativo de Lista de Tarefas com Django 
 
 ![To-Do List Screenshot](screenshot.png)
 
